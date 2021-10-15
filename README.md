@@ -1,7 +1,5 @@
 # EDA - Chicago Taxi Trips
 
-Initial streamlit app  http://192.168.50.79:8501
-
 The purpose of this project is to analyze the Chicago taxi trips.
 The data will be collected from the [City of Chicago Transportation](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew/data) website. 
 
